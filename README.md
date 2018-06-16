@@ -8,3 +8,6 @@ The IDCard team aims to provide a high-quality media platform where contents can
 # For New Users
 To get access to the main Dapp at https://idcard.gold/#/home, please make sure your browser has the MetaMask plugin (https://metamask.io)  and logged into the main ETH network. We recommend Google Chrome or Firefox for best experience! Have fun!
 
+![logo](https://github.com/cristianoBY/IDCard-Solidity-Smart-Contracts-Ethereum-Open-Sourced/blob/master/new-logo.PNG)
+
+
