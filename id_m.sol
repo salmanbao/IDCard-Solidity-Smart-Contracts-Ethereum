@@ -3,7 +3,7 @@ pragma solidity ^0.4.19;
 contract IDCard {
     //contract owner & init vars
     address public owner;
-    
+     
     //prestige value
     mapping(uint => uint) public PRESTIGE;
     
