@@ -1,5 +1,4 @@
 # IDCard Project
-*****ONLY PART OF THE PROJECT IS OPEN-SOURCED*****
 
 IDCard is an anonymous on-chain news and social networking service based on the Ethereum network. You can easily post your moments and articles, create digital assets, or engage in DApp development on blockchain through IDCard. All your activities and information related to your account (personal reputation, copyrights, following & follower history, etc.) will be recorded permanently on the blockchain. Currently, IDCard has developed applications based on the Ethereum smart contract, such as “on-chain” email system, reputation-motivative contract. Eventually, it aims at deriving a decentralized ecosystem from social platform. 
 
