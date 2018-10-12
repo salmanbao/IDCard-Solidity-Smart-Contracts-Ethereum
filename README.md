@@ -4,6 +4,14 @@ IDCard is an anonymous on-chain news and social networking service based on the 
 
 The IDCard team aims to provide a high-quality media platform where contents can be stored securely. Moreover, starting as a social network, IDCard will provide next-generation copyright protection, on-chain IoT, and development interface for DApp on the blockchain. As long as you have an Ethereum wallet, you can use your own IDCard to build up your personal ‘on-chain’ social image. Particularly, the IDCard project provides API for all the DApps when the developers would like identified ‘on-chain’ users to enjoy their amazing products. We are willing to share any great Ethereum DApps within our platform to boost the development of the on-chain application ecosystem. 
 
+# About this Repo
+
+``id_m.sol``: the main ETH contract for IDCard
+
+``e.sol``: the email system contract based on ETH for IDCard
+
+``RomanceWall``: fun side-project for Valentine's Day. Users can pay ceratin amount of ETH to engrave their love on a ETH wall where information will be stored forever!
+
 # For New Users
 To get access to the main Dapp at https://idcard.gold/#/home, please make sure your browser has the MetaMask plugin (https://metamask.io)  and logged into the main ETH network. We recommend Google Chrome or Firefox for best experience! Have fun!
 
