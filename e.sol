@@ -1,3 +1,5 @@
+// Copyright @ Boyu Zhang & Ricky T
+
 pragma solidity ^0.4.19;
 
 contract IDCard {
